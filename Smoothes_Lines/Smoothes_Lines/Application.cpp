@@ -10,6 +10,12 @@ Code developed by Rafael Pais Cardoso in 10/08/2018.
 DRE: 116170488
 */
 
+/*
+In a nutshell, this code joins points that were obtained by the left mouse button clicks from the user on a window.
+If the user clicks the right mouse button, then these lines will be smoothed. The image, therefore, will get more curved.
+*/
+
+
 #define _USE_MATH_DEFINES
 //Width and height of the window. If necessary, change these values.
 #define WIDTH 600

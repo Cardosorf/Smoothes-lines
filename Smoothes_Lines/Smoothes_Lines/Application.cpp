@@ -131,7 +131,7 @@ void header() {
 	string name = "Rafael Pais Cardoso\n";
 	string dre = "DRE: 116140788";
 	string instruction1 = "Left mouse button -> creates points";
-	string instruction2 = "Right mouse button -> smooths connected points";
+	string instruction2 = "Right mouse button -> smoothes connected points";
 	int len_name = (int)name.length();
 	int len_dre = (int)dre.length();
 	int len_instruction1 = (int)instruction1.length();
